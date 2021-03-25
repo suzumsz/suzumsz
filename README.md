@@ -1,4 +1,4 @@
-### Hi there 👋
+### 수정입니당 🐰
 
 <!--
 **suzumsz/suzumsz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
